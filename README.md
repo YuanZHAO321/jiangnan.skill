@@ -7,7 +7,7 @@
 [![Version](https://img.shields.io/badge/version-2.0.0-blue.svg)](https://github.com/dmlin7777777/jiangnan.skill/releases)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Made with Nuwa](https://img.shields.io/badge/Made%20with-Nuwa%20Skill-orange.svg)](https://github.com/alchaincyf/nuwa-skill)
-[![Enhanced by Darwin](https://img.shields.io/badge/Enhanced%20by-Darwin%20Sampling-red.svg)](https://github.com/alchaincyf/darwin-skill)
+[![Enhanced by Darwin](https://img.shields.io/badge/Enhanced%20by-Darwin%20Skill-red.svg)](https://github.com/alchaincyf/darwin-skill)
 [![Protocol v2](https://img.shields.io/badge/Protocol-v2.0%20Narrative-purple.svg)](#v20-%E5%8F%99%E4%BA%8B%E5%8D%8F%E9%87%8D%E6%9E%84)
 
 ---
@@ -373,5 +373,5 @@ MIT License
 ---
 
 <p align="center">
-  <sub>Made with ❤️ by <a href="https://github.com/dmlin7777777">David Lin</a> · Powered by <a href="https://github.com/alchaincyf/nuwa-skill">Nuwa Skill</a> · Enhanced by <a href="[#darwin-战略性sampling](https://github.com/alchaincyf/darwin-skill)">Darwin Skill</a> · Protocol <a href="#v20-%E5%8F%99%E4%BA%8B%E5%8D%8F%E9%87%8D%E6%9E%84">v2.0</a></sub>
+  <sub>Made with ❤️ by <a href="https://github.com/dmlin7777777">David Lin</a> · Powered by <a href="https://github.com/alchaincyf/nuwa-skill">Nuwa Skill</a> · Enhanced by <a href="https://github.com/alchaincyf/darwin-skill">Darwin Skill</a> · Protocol <a href="#v20-%E5%8F%99%E4%BA%8B%E5%8D%8F%E9%87%8D%E6%9E%84">v2.0</a></sub>
 </p>
