@@ -1,30 +1,5 @@
 ---
-name: jiangnan.skill
 version: "2.0.0"
-description: >
-  江南（杨治）写作技法视角 Skill —— 叙事协议版。
-  给每个人的龙族一个结局。
-  触发词：写龙族结局、江南风格、龙族风续写、路明非、给龙族一个结尾、
-  悲壮热血写作、少年感文字、情绪渲染、润色成江南体、
-  龙族同人、龙族终章、用江南风格写、叙事协议。
-metadata:
-  author: Nuwa Skill (蒸馏生成) + Darwin Strategic Sampling v1.1 + 叙事协议 v2.0
-  created: "2026-04-17"
-  updated: "2026-04-17"
-  source_type: "distillation + strategic_sampling + protocol_redesign"
-  distillation_method: >
-    v1.0: 6-Agent并行网络搜索蒸馏 → 7个心智模型
-    v1.1: Darwin战略性采样增强（3路并行）: 99.6KB 新素材
-    v2.0: 架构重构——从「技法手册」升级为「龙族结局叙事协议」
-  quality_score:
-    baseline_v1.0: 76
-    estimated_v1.1: 88
-    evaluated_v1.1: 81.85
-    target_v2.0: 92+
-  protocol_version: 2.0
-  local_references:
-    path: "references/"
-    description: "本地研究/审计素材目录（不随仓库分发，默认被 .gitignore 忽略）"
 ---
 
 # 🐉 江南.skill — 给所有人的龙族一个结局
