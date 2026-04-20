@@ -306,19 +306,6 @@ jiangnan/
 references/                             ← 研究/审计素材目录（已忽略，不会被提交）
 ```
 
-### 对外分发（推荐做法）
-
-如果你要公开发布/分享，推荐用脚本导出一个“公开包”，自动剔除 `references/`：
-
-```powershell
-powershell -ExecutionPolicy Bypass -File scripts/export-public.ps1
-```
-
-导出结果在：`dist/public/`。
-
-
-<br>
-<br>
 
 ---
 
