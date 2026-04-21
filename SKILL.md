@@ -1,4 +1,7 @@
 ---
+name: jiangnan
+description: |
+   江南.skill 叙事协议 Fork
 version: "2.0.1"
 ---
 
